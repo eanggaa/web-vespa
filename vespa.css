@@ -1,0 +1,93 @@
+.hhh {
+    font-weight: 900;
+}
+
+.hhh001 {
+    font-size: 90px;
+    margin-left: -50px;
+    margin-top: 50px;
+    position: absolute;
+}
+
+.hhh002 {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+/* kotak */
+.kotak007 {
+    background-color: #E6BA95;
+    width: 130px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    margin-left: -142px;
+    margin-top: -50px;
+    z-index: 1;
+}
+
+.kotak009 {
+    background-color: #E6BA95;
+    width: 130px;
+    aspect-ratio: 1/1;
+    z-index: 2;
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 450px;
+}
+
+/* main */
+#main {
+    margin-top: 100px;
+}
+
+#main .kotak001 {
+    background-color: #E6BA95;
+    position: absolute;
+    margin-left: -110px;
+    z-index: -1;
+}
+
+#main .kotak002 {
+    background-color: #DD4A48;
+    position: absolute;
+    z-index: -2;
+}
+
+/* spek */
+#spek {
+    margin-top: 100px;
+}
+
+.kotak003 {
+    background-color: #DD4A48;
+}
+
+.kotak004 {
+    background-color: #74959A;
+}
+
+/* features */
+#features {
+    margin-top: 50px;
+}
+
+/* about */
+#about {
+    margin-top: 100px;
+}
+
+#about .kotak005,
+.kotak008 {
+    background-color: #DD4A48;
+}
+
+/* gallery */
+#gallery {
+    margin-top: 100px;
+}
+
+/* footer */
+#footer {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
